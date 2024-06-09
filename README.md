@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **web developing**
 
 - 📫 How to reach me **mashrur950@gmail.com**
-- My Portfolio website: <a href="https://mashrur.wuaze.com">Mashrur</a>
+- My Portfolio website: <a href="https://mashrurrahman.netlify.app">Mashrur</a>
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
